@@ -18,6 +18,7 @@ cleaner code
 more inbedded notes
 use only english
 add tons of more philophers
+make use of "replays" from the philophers
 
 
 Thanks // Eric
