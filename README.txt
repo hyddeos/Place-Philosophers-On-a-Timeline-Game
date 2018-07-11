@@ -1,3 +1,5 @@
+Updated with new version read patch notes 1.0 to see more about whats going on.
+
 BACKGROUND:
 Hello,
 Im completly new to programming and have desided to try to learn python.
